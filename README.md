@@ -1,24 +1,11 @@
-# README
+# Bottom Shelf ICQ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Yet another fun lil' project from the [udemy course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`rake about`:
+* Rails version             5.2.8.1
+* Ruby version              2.7.6-p219 (x86_64-darwin21)
+* RubyGems version          3.1.6
+* Rack version              2.2.4
+* JavaScript Runtime        Node.js (V8)
+* Database adapter          sqlite3

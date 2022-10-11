@@ -7,5 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 User.create(username: 'Raymond', password: 'safe_pass')
-
+User.create(username: 'Amy', password: 'safe_pass')
 # rails db:seed

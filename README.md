@@ -9,3 +9,9 @@ Yet another fun lil' project from the [udemy course](https://www.udemy.com/cours
 * Rack version              2.2.4
 * JavaScript Runtime        Node.js (V8)
 * Database adapter          sqlite3
+
+
+### TODO:
+* Sign Up
+* Right-hand Pane in the chatroom
+* Messages in the header 
